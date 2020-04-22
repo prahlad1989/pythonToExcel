@@ -1,4 +1,4 @@
-# pythonToExcel
+# gmailToExcel
 
 Pls install excel package as below.
 
